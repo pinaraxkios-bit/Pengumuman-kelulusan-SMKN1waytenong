@@ -108,7 +108,7 @@ input[type="text"] {
 }
 
 .img-logo {
-    max-width: 80px; /* Lebar maksimum logo */
+    max-width: 50px; /* Lebar maksimum logo */
     height: auto;
     border-radius: 50%; /* Opsional: jika ingin logo berbentuk bulat */
 }
